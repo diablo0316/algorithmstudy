@@ -73,8 +73,8 @@ class LinkedList:
 
 linkedList = LinkedList()
 linkedList.insert(3,0)
-linkedList.insert(4,0)
-linkedList.insert(9,2)
+linkedList.insert(6,0)
+linkedList.insert(7,2)
 linkedList.insert(5,3)
 linkedList.insert(6,1)
 linkedList.remove(0)
